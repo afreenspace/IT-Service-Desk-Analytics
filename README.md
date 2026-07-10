@@ -58,4 +58,6 @@ This project pushed me beyond basic formula application into analytical thinking
 
 ## 🔗 Connect
 
-This project is part of a data analyst portfolio. Connect on LinkedIn to discuss the analysis and business recommendations further.
+This project is part of a data analyst portfolio. Connect on LinkedIn to discuss the analysis and business recommendations further:
+
+- https://www.linkedin.com/in/afreenofficial
