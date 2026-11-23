@@ -1,3 +1,5 @@
+Learning project. Built while learning [Power BI / SQL / Python] with AI assistance for guidance and debugging. The business questions, dataset selection, and review of results were mine. Some advanced parts were AI-guided.
+
 # IT Service Desk — SLA Compliance & Ticket Analytics
 
 An end-to-end Excel analytics project analyzing 97,498 IT support tickets (2016–2020) to uncover SLA compliance gaps, agent performance patterns, and process failures at a growing IT service desk.
